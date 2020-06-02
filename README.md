@@ -1,2 +1,2 @@
-# Kadane-salogoritmefficient
-Kadane's algorithm minimum sum subarray efficient implementation
+# Kadane's alogoritm efficient
+Kadane's algorithm maximum sum subarray efficient implementation
